@@ -5,7 +5,7 @@
 - Some of my projects:
 <a href="http://popflix-app.herokuapp.com/" target="_blank" title="Popflix">Popflix</a>,
 <a href="https://rick-and-morty-base.herokuapp.com/" target="_blank" title="Rick And Morty Database">Rick and Morty Database</a>,
-<a href="https://g3news.herokuapp.com/login" target="_blank" title="G3News">G3News</a>,
+<a href="https://g3news.herokuapp.com/" target="_blank" title="G3News">G3News</a>,
 <a href="https://pokedex-7.herokuapp.com/" target="_blank" title="Pokedex">Pokedex</a>
 
 You can find me on <a href="https://www.linkedin.com/in/leonardojuriolli/" target="_blank" title="LinkedIn">Linkedin</a> <br>
